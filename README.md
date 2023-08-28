@@ -1,7 +1,7 @@
 # telegram-scraper-tool
 FREE TOOL FOR EVERYONE
 
-MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
+MESSAGE ME > https://t.me/TCtools
 
 ![TG](https://user-images.githubusercontent.com/125784563/221007662-026096e3-9a63-4c73-b5e9-00f178a89644.jpeg)
 
@@ -10,7 +10,7 @@ A FREE TELEGRAM SCRAPER TOOL
 
 FOR CHANNEL SCRAPER OR OTHER DEALS
 
-MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
+MESSAGE > https://t.me/TCtools
 
 # FEATURES
 > you can add multiple accounts
@@ -24,7 +24,6 @@ DO YOU NEED THE BEST VERSION ?
 
 BEST VERSION SCRAPES UNLIMITED MEMBERS
 
-MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 
 
 # REQUIREMENTS
@@ -39,7 +38,6 @@ MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 > pip install requests
 
 
-FREE GUIDE > https://t.me/+r4q42DHGePA5ZTJk
 
 # USAGE 
 > manager.py to add accounts
